@@ -6,4 +6,4 @@ git config  --global user.email "direccion de email.com"
 			--> git add -A,  git add . ;
 (pasar al repositorio local) --> git commit (tecla "i" para insertar un comentario, ESC para salir del comentario, :WQ para grabar y salir)
 			     --> git commit -m "Descripción del cambio"
-(Historial de los commits) --> git log / --online (abreviada) / --graph (detalle de ramas)
+(Historial de los commits) --> git log / --online (abreviada) / --graph (detalle de ramas);
