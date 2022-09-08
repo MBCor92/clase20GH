@@ -1,0 +1,11 @@
+Como colaborar con un proyecto alojado en Github
+(desde GitHub hacer un FORK)
+git clone <URL>
+git checkout -b <nombre_rama> (crear una rama)
+(Hacer cambios)
+git add .
+git commit ....
+git push origin <nombre_rama>
+(desde GitHub click en "Compare & Pull Request")
+Escriben detalle
+Send Pull Request

@@ -25,7 +25,7 @@ RAMAS
 ***(Los 2 pasos anteriores juntos) -> git checkout -b <nombre_rama>
 (Para saber en que rama estoy) -> git branch
 (para fusionar ramas)
-(Me posiciono en el master) -> git branch master
+(Me posiciono en el master (o main)) -> git checkout master
 (Hago la union) -> git merge <nombre_rama>
 (Si no se utiliza mas la rama la elimino) -> git branch -d <nombre_rama>
 
